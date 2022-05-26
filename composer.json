@@ -19,7 +19,6 @@
         ]
     },
     "type": "magento2-module",
-    "version": "2.1.0",
     "authors": [
         {
             "name": "PCA Predict",
